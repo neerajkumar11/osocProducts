@@ -1,0 +1,47 @@
+.ma{
+    width: 70%;
+    margin: auto;
+    margin-top: 50px;
+}
+
+.home{
+    width: 80%;
+    margin: auto;
+    margin-top: 100px;
+}
+
+.text{
+    margin-top: 10px;
+}
+
+.button{
+    background-color: #343A3F;
+    /* width: 80px; */
+    width: fit-content;
+    color: aliceblue;
+    padding: auto;
+    padding: 5px;
+    border-radius: 3px;
+}
+
+.button:hover{
+    background-color: aliceblue;
+    border: 1px solid #343A3F;
+    color: #343A3F;
+}
+
+.btn:hover{
+    color: aliceblue;
+}
+
+.top{
+    margin-top: 20px;
+    margin-left: 20px;
+}
+
+.footer{
+    position: relative;
+    bottom: 0;
+    background-color: #343A3F;
+    margin-top: 100px;
+}
